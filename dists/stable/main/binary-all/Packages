@@ -84,10 +84,10 @@ Description: OpenCV documentation and examples
  of high level functionalities for video acquisition, image processing and
  analysis, structural analysis, motion analysis and object tracking, object
  recognition, camera calibration and 3D reconstruction.
-Size: 92713328
-SHA512: 1a95d0bdc50ecf5bae24a13bbf59f2485d493e799f39905080f6eccbd17ca9be37a15def06461ea9fc777c84b5798cef83f8619eeeb59e0fd77b50e6bb910a4e
-SHA256: f84e2252123c8c4d62625a82d6103c81356129c561dc55f518c967c47ef56b36
-SHA1: a6cd291cb87197847833b7385f765dc7a84b13dd
-MD5sum: a047227091d01cffcdeb21aebaad9a01
+Size: 92713304
+MD5sum: 4b55e042eb6103826f83dcb486fad3a4
+SHA512: ff17b07e73e53a32f167d499000af926e7babc1a3a5797e102b9742f58d950389cfe952dbd04852094eeb71e05d0e4e6db86beb5cfa0d7d2f4cc5e1d173576c6
+SHA256: 28b41e06108edbeae87144fc5940ffa6e7bf1af94dbb3d3cb61bea7dbad4b7f8
+SHA1: 3c778e31d0ed8b30fe58b0e372632cf99307aada
 Filename: pool/main/o/opencv-doc/opencv-doc_4.2.0+dfsg-5_all.deb
 
